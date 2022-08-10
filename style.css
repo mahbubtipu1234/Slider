@@ -1,0 +1,27 @@
+body{
+    font-family: 'PT Sans', sans-serif ;
+    font-size: 16px;
+    font-weight: 400;
+    color: #0e44cc;
+    background-color: #1babe9;
+}
+/* common end  */
+/* header :start  */
+header{
+    background-color: #1babe9;
+    padding: 20px 0;
+}
+.menu{}
+.menu ul li a{
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+    padding: 0 30px !important;
+}
+.menu ul li a:last-child{
+    padding-right: 0 !important ;
+} 
+.menu ul li a:hover{
+    color: white !important;
+}
+/* header end  */
